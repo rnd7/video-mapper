@@ -1,0 +1,25 @@
+{
+  "name": "LuxAndLucidVideoMapper",
+  "version": "1.0.0",
+  "description": "Lux&Lucid Visuals",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./src/main.js"
+  },
+  "keywords": [
+    "Electron",
+    "Lux&Lucid",
+    "VideoMapper",
+    "Theater der Welt 2017"
+  ],
+  "author": "Lux&Lucid",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "stats-js": "^1.0.0-alpha1",
+    "three": "^0.84.0",
+    "three-effectcomposer": "0.0.1"
+  }
+}
